@@ -1,7 +1,7 @@
 # MGAN: Learning to Coordinate via Multiple Graph Neural Networks
 
 ## Note
-MMD-MIX is a new algorithm that combines graph convolutional networks and value-decomposition methods, and it is based on  [PyMARL](https://github.com/oxwhirl/pymarl) and [SMAC](https://github.com/oxwhirl/smac) codebases which are open-sourced.
+MGAN is a new algorithm that combines graph convolutional networks and value-decomposition methods, and it is based on  [PyMARL](https://github.com/oxwhirl/pymarl) and [SMAC](https://github.com/oxwhirl/smac) codebases which are open-sourced.
 
 The implementation of the following methods can also be found in this codebase, which are finished by the authors of [PyMARL](https://github.com/oxwhirl/pymarl):
 - [**MGAN**: Learning to Coordinate via Multiple Graph Neural Networks](https://arxiv.org/abs/2104.03503)
